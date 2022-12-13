@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ShurjoMukhi/ShurjoPay Plugin/django-app-python-plugin"
+		},
+		{
+			"path": "../../ShurjoMukhi/ShurjoPay Plugin/sp-plugin-python"
+		},
+		{
+			"path": "../../django_test"
+		},
+		{
+			"path": "../../django_projects/locallibrary"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rafi"
+	}
+}
