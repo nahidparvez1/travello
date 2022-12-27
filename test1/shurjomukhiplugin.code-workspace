@@ -14,9 +14,33 @@
 		},
 		{
 			"path": "../../django_projects/locallibrary"
+		},
+		{
+			"path": "../../shihab"
+		},
+		{
+			"path": "../../django_projects/studentinfo"
+		},
+		{
+			"path": "../../PraniSheba/adorsho-pranisheba"
+		},
+		{
+			"path": "../../django_projects/locallibrary - help from github"
+		},
+		{
+			"path": "../../django_projects/multiple"
+		},
+		{
+			"path": "../../django_projects/tutorial"
+		},
+		{
+			"path": "../../django_projects/drf-local-library"
+		},
+		{
+			"path": "../../django_projects/django rest locallibrary"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "rafi"
+		"liveServer.settings.multiRootWorkspaceName": "locallibrary"
 	}
 }
